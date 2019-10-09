@@ -49,12 +49,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name> gudihimabindu</name>
-	      <url>http://3.91.72.184:8081/repository/maven-releases/</url>
+	      <url>http://ec2-3-91-72-184.compute-1.amazonaws.com:8081/repository/GudiHimabindu-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>gudihimabindu </name>
-	      <url>http://3.91.72.184:8081/repository/maven-snapshot/</url>
+	      <url>http://ec2-3-91-72-184.compute-1.amazonaws.com:8081/repository/GudiHimabindu-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 
