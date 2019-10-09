@@ -48,12 +48,12 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name> Nexus Repository</name>
+	      <name> gudi himabindu</name>
 	      <url>http://3.91.72.184:8081/repository/maven-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>gudi himabindu </name>
 	      <url>http://3.91.72.184:8081/repository/maven-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
